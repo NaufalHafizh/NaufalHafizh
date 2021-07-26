@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **UI/UX Design, Web Programming, Mobile Programming**
 
-- 👨‍💻 All of my projects are available at [https://naufalhafizh.github.io/Portfolio/](https://naufalhafizh.github.io/Portfolio/)
-
 - 📫 How to reach me **mnaufal201@gmail.com**
 
 - ⚡ Fun fact **iam Curious and fast learner**
