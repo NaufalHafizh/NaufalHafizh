@@ -1,4 +1,2 @@
 <h1> Hi👋, I’m @NaufalHafizh</h1>
-- 👀 Saya tertarik pada Pemrograman Web dan Aplication Development
-- 🌱 Saya Sedang Melanjutkan Studi Teknik Informatika
-- 📫 Find Me On Instagram @muhnaufalhafizh20
+<p>I'm a low end Web Developer. A Informatics Undergraduate student, currently studying in Yogyakarta. Curious and fast learner </p>
