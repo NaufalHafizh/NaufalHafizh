@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naufal Hafizh</h1>
-<h3 align="center">I'm a low end Web Developer. A Informatics Undergraduate student, currently studying in Yogyakarta. Curious and fast learner</h3>
 
 - 🌱 I’m currently learning **UI/UX Design, Web Programming, Mobile Programming**
 
