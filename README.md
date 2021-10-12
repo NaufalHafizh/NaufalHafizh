@@ -11,5 +11,5 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhafizh" alt="naufalhafizh" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalhafizh&include_all_commits=true" alt="naufalhafizh" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalhafizh" alt="naufalhafizh" />
 </p>
