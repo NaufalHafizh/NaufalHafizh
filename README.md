@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naufal Hafizh</h1>
 
-- 🌱 I’m currently learning **Laravel 8 and Tailwind CSS**
-
 
 <h3 align="left">Languages</h3>
 <p>
