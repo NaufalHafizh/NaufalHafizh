@@ -10,6 +10,12 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="naufalhafizh" />
 </p>
 
+<h3 align="left">Framework</h3>
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="naufalhafizh" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="naufalhafizh" />
+</p>
+
 <h3 align="left">Tool</h3>
 
 <p>
