@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naufal Hafizh</h1>
 
+<p>
+  I'm a Junior Web Developer. Living in magetan, east java. A Informatics Undergraduate student, currently studying in Yogyakarta. Curious and fast learner. Currently learn Laravel 8
+</p>
 
 <h3 align="left">Languages</h3>
 <p>
