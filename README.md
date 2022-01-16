@@ -3,8 +3,9 @@
 <p>
   I'm a Junior Web Developer. Living in magetan, east java. A Informatics Undergraduate student, currently studying in Yogyakarta.
 </p>
+
+<h3 align="left">Currently Learn</h3>
 <p>
-  Currently Learn
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="naufalhafizh" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="naufalhafizh" />
 </p>
