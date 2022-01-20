@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naufal Hafizh</h1>
 
-<p>
+<p  align="center">
   I'm a Junior Web Developer. Living in magetan, east java. A Informatics Undergraduate student, currently studying in Yogyakarta.
 </p>
 
