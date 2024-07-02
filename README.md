@@ -2,9 +2,7 @@
 
 Junior web developers who are interested in the field of backend web development.
 
-👋 I'm currently open to work
-
-👀 I’m interested in Web Development, PHP developer and Backend Developer
+👀 I’m interested in Web Development and Backend Developer
 
 📫 You can reach me at: muhammdnaufal40@gmail.com
 
