@@ -1,10 +1,8 @@
-# Hi, iam Muhammad Naufal Hafizh
+# 👋 Hello, I'm Muhammd Naufal
 
-Junior web developers who are interested in the field of backend web development.
+A passionate Web Developer with a strong interest in backend development. I'm constantly learning and exploring new technologies to build robust and efficient web applications.
 
-👀 I’m interested in Web Development and Backend Developer
-
-📫 You can reach me at: muhammdnaufal40@gmail.com
+📫 You can reach me at: [muhammdnaufal40@gmail.com](mailto:muhammdnaufal40@gmail.com)
 
 ### Social Media
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
