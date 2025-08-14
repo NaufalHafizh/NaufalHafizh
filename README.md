@@ -32,9 +32,6 @@ A passionate Web Developer with a strong interest in backend development. I'm co
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Static
-<a href="https://github.com/NaufalHafizh">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaufalHafizh&theme=transparent&include_all_commits=true" />
-</a>
-<a href="https://github.com/NaufalHafizh">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaufalHafizh&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaufalHafizh&&column=-1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaufalHafizh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NaufalHafizh&theme=tokyonight-duo&card_width=1000)](https://git.io/streak-stats)
