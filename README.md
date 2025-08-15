@@ -1,17 +1,17 @@
-# 🖐️ Halo, Saya Muhammad Naufal Hafizh
+# 🖐️ Hello, I'm Muhammad Naufal Hafizh.
 
-> 🔥 _"Membangun backend yang kuat, satu baris kode pada satu waktu."_
+> 🔥 _"Building a robust website, one line of code at a time."_
 
-Seorang **Web Developer** penuh semangat dengan fokus kuat di bidang **backend development**. Saya mencintai logika, arsitektur sistem, dan membuat aplikasi web yang **cepat, aman, dan skalabel**. Saat ini, saya aktif belajar dan bereksperimen dengan teknologi modern untuk terus berkembang.
+Hello! I am Muhammad Naufal Hafizh, a dedicated **Fullstack Web Developer** with expertise in programming and technology, mastering **Laravel and PHP** like a wizard. An **ambitious** individual with a strong academic foundation and a track record of outstanding achievements, destined to write code that reaches for the stars, proving that the digital world bends to will and **creativity**.
 
 ---
 
-### 📬 Hubungi Saya
+### 📬 Contact Me
 📧 [muhammdnaufal40@gmail.com](mailto:muhammdnaufal40@gmail.com)
 
 ---
 
-### 🌐 Media Sosial
+### 🌐 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/muhammdnaufal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammdnaufal)
 
@@ -19,7 +19,7 @@ Seorang **Web Developer** penuh semangat dengan fokus kuat di bidang **backend d
 
 ### 💻 Tech Stack
 
-#### 🛠️ Bahasa & Framework
+#### 🛠️ Language & Framework
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -41,7 +41,7 @@ Seorang **Web Developer** penuh semangat dengan fokus kuat di bidang **backend d
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Statistics
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaufalHafizh&&column=-1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaufalHafizh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -49,10 +49,5 @@ Seorang **Web Developer** penuh semangat dengan fokus kuat di bidang **backend d
 
 ---
 
-### 🤝 Mari Berkolaborasi!
-Jika kamu punya proyek menarik, ingin berdiskusi teknologi, atau butuh partner pengembangan backend — jangan ragu untuk menghubungi saya! Saya selalu terbuka untuk belajar bersama dan berkontribusi pada proyek open-source. 🚀
-
----
-
 > 🔗 **GitHub:** [@NaufalHafizh](https://github.com/NaufalHafizh)  
-> 🌱 *Sedang belajar, selalu berkembang.*
+> 🌱 *Always learning, always growing.*
