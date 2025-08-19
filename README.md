@@ -2,7 +2,7 @@
 
 > 🔥 _"Building a robust website, one line of code at a time."_
 
-Hello! I am Muhammad Naufal Hafizh, a dedicated **Fullstack Web Developer** with expertise in programming and technology, mastering **Laravel and PHP** like a wizard. An **ambitious** individual with a strong academic foundation and a track record of outstanding achievements, destined to write code that reaches for the stars, proving that the digital world bends to will and **creativity**.
+Hello! I am Muhammad Naufal Hafizh, a dedicated **Fullstack Web Developer** with expertise in programming and technology, mastering **Laravel and PHP** like a wizard. An **ambitious** individual with a strong **academic foundation**, destined to write code that reaches for the stars, proving that the digital world bends to will and **creativity**.
 
 ---
 
