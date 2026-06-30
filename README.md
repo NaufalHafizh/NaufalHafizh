@@ -42,8 +42,6 @@ Hello! I am Muhammad Naufal Hafizh, a dedicated **Fullstack Web Developer** with
 ---
 
 ### 📊 GitHub Statistics
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaufalHafizh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaufalHafizh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=NaufalHafizh&theme=tokyonight-duo&card_width=1000)](https://git.io/streak-stats)
 
