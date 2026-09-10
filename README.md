@@ -1,6 +1,6 @@
 # 🖐️ Hello, I'm Muhammad Naufal Hafizh.
 
-> 🔥 _"Building a robust website, one line of code at a time."_
+> 🔥 _"Dances between cyber sorcery and tech wizardry."_
 
 Hello! I am Muhammad Naufal Hafizh, a dedicated **Fullstack Web Developer** with expertise in programming and technology, mastering **Laravel and PHP** like a wizard. An **ambitious** individual with a strong **academic foundation**, destined to write code that reaches for the stars, proving that the digital world bends to will and **creativity**.
 
